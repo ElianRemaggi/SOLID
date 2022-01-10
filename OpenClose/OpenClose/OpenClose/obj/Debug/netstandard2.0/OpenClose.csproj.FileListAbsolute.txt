@@ -1,0 +1,4 @@
+C:\Users\elian\Desktop\Temporal\SOLID\OpenClose\OpenClose\OpenClose\obj\Debug\netstandard2.0\OpenClose.csprojAssemblyReference.cache
+C:\Users\elian\Desktop\Temporal\SOLID\OpenClose\OpenClose\OpenClose\obj\Debug\netstandard2.0\OpenClose.AssemblyInfoInputs.cache
+C:\Users\elian\Desktop\Temporal\SOLID\OpenClose\OpenClose\OpenClose\obj\Debug\netstandard2.0\OpenClose.AssemblyInfo.cs
+C:\Users\elian\Desktop\Temporal\SOLID\OpenClose\OpenClose\OpenClose\obj\Debug\netstandard2.0\OpenClose.csproj.CoreCompileInputs.cache
