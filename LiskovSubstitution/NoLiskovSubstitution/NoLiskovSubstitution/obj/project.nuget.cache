@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9BblMn5JIAsI0WJARukI4yzAXw16xYoDES7zI3cegXUjJqMxSxORK0c/zs3bA4J4lFgp/Xbc1Lf7RCGoJt6RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elian\\Desktop\\Temporal\\SOLID\\LiskovSubstitution\\NoLiskovSubstitution\\NoLiskovSubstitution\\NoLiskovSubstitution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
