@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkFP+NtSEupsh4mtMYRjbItYYE4K0xRTZF1wCJbNHFNmywce/mLe38lBqXuczI3pnoizB68Fyz9COlsfQh5JGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elian\\Desktop\\Temporal\\SOLID\\DependencyInversion\\DependencyInversion\\DependencyInversion\\DependencyInversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
