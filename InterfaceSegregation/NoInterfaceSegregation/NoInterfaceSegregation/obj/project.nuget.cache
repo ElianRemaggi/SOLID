@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uNixtIrvWAU8bbkIo2ZfYa4CdGf9ULSxg9PSHsR6se3k8GPQxGKiA45HZTlES6TO7ug4J45dlffwaLty16T/tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elian\\Desktop\\Temporal\\SOLID\\InterfaceSegregation\\NoInterfaceSegregation\\NoInterfaceSegregation\\NoInterfaceSegregation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
